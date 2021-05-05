@@ -41,7 +41,7 @@ Your objective for phase one is to complete the kubernetes files, based on the i
 
 HINTS:
 * **You only need to replace values that contain ???** (i.e. secret.yaml is already complete)
-* All necessary files are located within the ```kubernetes_flag``` directory, located in admin home directory (/home/admin/kubernetes_flag). 
+* All necessary files are located within the ```kubernetes_flag``` directory, located in admin home directory (/home/admin/kubernetes_flag)
 * You will need to start minikube ```minikube start```
 * You will need to utilize the minikube docker daemon ```eval $(minikube docker-env)```
 	* You can now verify that the prebuilt image exists with ```docker images``` (you only need to focus on the gates-of-moria entry)
@@ -51,9 +51,7 @@ HINTS:
 HELPFUL COMMANDS:
 * deploy an object to the cluster: ```kubectl apply -f <filename>``` EX: ```kubectl apply -f pod.yaml```
 * delete an object from the cluster (in case you deploy an object w/ errors): ```kubectl delete -f <filename```
-* retrieve basic info about deployed pods: ```kubectl get pods```
-* retrieve basic info about deployed secrets: ```kubectl get secrets```
-* retrieve basic info about deployed services: ```kubectl get services```
+* retrieve basic info about deployed object type: ```kubectl get <object type>``` Example object types: pods, services, secrets
 * retrieve logs for pod: ```kubectl logs <pod name>```
 
 HOW TO SUBMIT FOR POINTS:
