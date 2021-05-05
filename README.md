@@ -1,5 +1,28 @@
 # CodeWar Challenges
 
+## Word Search Puzzle 
+
+Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ 
+How to verify/submit: Screenshot your completed word search puzzle and send the picture in your team’s breakout room chat letting us know that you have completed it.
+Potential points: 10 points for fully completing the word search puzzle. 
+
+## Neuralink Trivia Quiz 
+
+Instructions: Follow this link to access the trivia quiz https://forms.gle/nEF1iZacaBPqLHUe8 
+How to verify/submit: How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
+Potential points: Each question is worth 1 point. There are a total of 10 questions. 
+
+## Leet Code Challenge 1
+
+Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
+Potential Points: 10 for completion 5 bonus for Golang
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+## Leet Code Challenge 2
+
+Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
+Potential Points: 10 for completion 5 bonus for Golang
+https://leetcode.com/problems/shuffle-the-array/
 
 ## Kubernetes/API Flag
 IMPORTANT TIP:
@@ -44,10 +67,12 @@ You are likely already aware of this after reviewing scraps.go, but the pod you 
 Your objective for phase two is to configure and execute the proper request to retrieve the flag response from the api.
 
 HINTS:
-* You likely noticed the file curl_command.sh. This file outlines the basic structure of the request. Your job is to supply the correct values for each occurence of ???
-* execute curl_command.sh: ```./curl_command.sh```
+* You likely noticed the file curl_command.sh. This file outlines the basic structure of the request. Your task is to supply the correct values for each occurence of ???
 * Review scraps.go!
 * base64 decode the value you send in the request
+
+HELPFUL COMMANDS:
+* execute curl_command.sh: ```./curl_command.sh```
 
 HOW TO SUBMIT FOR POINTS:
 * Paste the flag output into **your team's breakout room chat**
@@ -82,28 +107,3 @@ HINTS:
 
 HOW TO SUBMIT FOR POINTS:
 * Paste the flag output into **your team's breakout room chat**
-
-## Word Search Puzzle 
-
-Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ 
-How to verify/submit: Screenshot your completed word search puzzle and send the picture in your team’s breakout room chat letting us know that you have completed it.
-Potential points: 10 points for fully completing the word search puzzle. 
-
-## Neuralink Trivia Quiz 
-
-Instructions: Follow this link to access the trivia quiz https://forms.gle/nEF1iZacaBPqLHUe8 
-How to verify/submit: How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
-Potential points: Each question is worth 1 point. There are a total of 10 questions. 
-
-## Leet Code Challenge 1
-
-Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
-Potential Points: 10 for completion 5 bonus for Golang
-https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-
-## Leet Code Challenge 2
-
-Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
-Potential Points: 10 for completion 5 bonus for Golang
-https://leetcode.com/problems/shuffle-the-array/
-
