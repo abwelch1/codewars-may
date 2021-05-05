@@ -1,8 +1,8 @@
 # CodeWar Challenges
 
-## Kubernetes/api Flag
+## Kubernetes/API Flag
 
-## Nmap/frontend Flag
+## Nmap/Frontend Flag
 
 ### Phase 1:
 The network that your team VMs are within also contains a VM that is hosting a very popular (and secure!) banking service. 
