@@ -66,11 +66,14 @@ Your objective for phase two is to configure and execute the proper request to r
 
 HINTS:
 * You likely noticed the file curl_command.sh. This file outlines the basic structure of the request. Your task is to supply the correct values for each occurence of ???
+* The port you specified in service.yaml of Phase 1 is being mapped to a NodePort. **Use the NodePort when building the request**
 * Review scraps.go!
 * base64 decode the value you send in the request
 
 HELPFUL COMMANDS:
 * execute curl_command.sh: ```./curl_command.sh```
+* IP of minikube cluster: ```minikube ip```
+* retrieve more info on a service object: ```kubectl describe service <service name>```
 
 HOW TO SUBMIT FOR POINTS:
 * Paste the flag output into **your team's breakout room chat**
