@@ -25,6 +25,8 @@ Potential Points: 10 for completion 5 bonus for Golang
 https://leetcode.com/problems/shuffle-the-array/
 
 ## Kubernetes/API Flag
+Each phase is worth 10 points.
+
 IMPORTANT TIP:
 This challenge will require editing numerous files that exist on your team's linux VM. It is recommended that you use one of the supplied command-line editors: nano or vim.
 
@@ -80,6 +82,7 @@ HOW TO SUBMIT FOR POINTS:
 
 
 ## Nmap/Frontend Flag
+Each phase is worth 10 points. 
 
 ### Phase 1:
 The network that your team VMs are within also contains a VM that is hosting a very popular (and secure!) banking service. 
