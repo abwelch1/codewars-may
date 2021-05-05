@@ -1,6 +1,14 @@
 # CodeWar Challenges
 
+
 ## Kubernetes/API Flag
+IMPORTANT TIP:
+This challenge will require editing numerous files that exist on your team's linux VM. It is recommended that you use one of the supplied command-line editors: nano or vim.
+
+Basic operations with nano:
+* open an existing file/create new file with supplied name: ```nano <filename>```
+* save file: ```CTRL + O```
+* exit file: ```CTRL + X```
 
 ### Phase 1:
 
@@ -9,14 +17,17 @@ Your VM contains: docker, a docker image named gates-of-moria, minikube, kuberne
 Your objective for phase one is to complete the kubernetes files, based on the information you review from the Go scraps file. Once you have altered the scripts, you will deploy the objects to the minikube cluster.
 
 HINTS:
-* All necessary files are located within the ```kubernetes_flag``` directory, located in admin home directory (/home/admin/kubernetes_flag)
+* **You only need to replace values that contain ???** (i.e. secret.yaml is already complete)
+* All necessary files are located within the ```kubernetes_flag``` directory, located in admin home directory (/home/admin/kubernetes_flag). 
 * You will need to start minikube ```minikube start```
 * You will need to utilize the minikube docker daemon ```eval $(minikube docker-env)```
 	* You can now verify that the prebuilt image exists with ```docker images``` (you only need to focus on the gates-of-moria entry)
-* scraps.go will not compile in current state but contains all information you need to properly configure the kubernetes files. **You do not need to fix scraps.go. Do not build a new docker image** 
+* scraps.go will not compile in current state but contains all information you need to properly configure the kubernetes files. **You do not need to fix scraps.go. Do not build a new docker image**
+* The order that you apply the objects in matters. Review each object descriptor carefully to see if they reference other objects
 
 HELPFUL COMMANDS:
 * deploy an object to the cluster: ```kubectl apply -f <filename>``` EX: ```kubectl apply -f pod.yaml```
+* delete an object from the cluster (in case you deploy an object w/ errors): ```kubectl delete -f <filename```
 * retrieve basic info about deployed pods: ```kubectl get pods```
 * retrieve basic info about deployed secrets: ```kubectl get secrets```
 * retrieve basic info about deployed services: ```kubectl get services```
@@ -28,9 +39,15 @@ HOW TO SUBMIT FOR POINTS:
 ### Phase 2:
 Congrats on successfully deploying the pod! 
 
-You are likely already aware of this after reviewing scraps.go, but the pod you deployed is running a RESTful API application.
+You are likely already aware of this after reviewing scraps.go, but the pod you deployed is running a simple RESTful API.
 
-Your objective for phase two is to send a request with the correct value to the running pod, in order to retrieve the flag response from the api!
+Your objective for phase two is to configure and execute the proper request to retrieve the flag response from the api.
+
+HINTS:
+* You likely noticed the file curl_command.sh. This file outlines the basic structure of the request. Your job is to supply the correct values for each occurence of ???
+* execute curl_command.sh: ```./curl_command.sh```
+* Review scraps.go!
+* base64 decode the value you send in the request
 
 HOW TO SUBMIT FOR POINTS:
 * Paste the flag output into **your team's breakout room chat**
