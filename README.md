@@ -25,9 +25,9 @@ Congrats on gaining access to a very exclusive and innovative banking service.
 Your objective for phase two is to retrieve the flag from the website!
 
 HINTS:
-* Take some time to fully *inspect* the website (wink, wink)
-* Two options exist on the site. Both provide further hints to find the flag
-* The console tab in your browser will be useful
+* take some time to fully *inspect* the website (wink, wink)
+* two options exist on the site. Both provide further hints to find the flag
+* the console tab in your browser will be useful
 
 HOW TO SUBMIT FOR POINTS:
 	- Paste the flag output into **your team's breakout room chat**
