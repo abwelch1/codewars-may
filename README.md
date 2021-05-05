@@ -51,6 +51,7 @@ HINTS:
 * The order that you apply the objects in matters. Review each object descriptor carefully to see if they reference other objects
 
 HELPFUL COMMANDS:
+* output file content to terminal: ```cat <filename>```
 * deploy an object to the cluster via descriptor file: ```kubectl apply -f <filename>``` EX: ```kubectl apply -f pod.yaml```
 * delete an object from the cluster (in case you deploy an object w/ errors): ```kubectl delete -f <filename```
 * retrieve basic info about deployed object type: ```kubectl get <object type>``` Example object types: pods, services, secrets
