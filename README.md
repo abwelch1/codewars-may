@@ -38,10 +38,21 @@ Instructions: Follow this link to access the wordsearch challenge https://thewor
 How to verify/submit: Screenshot your completed crossword puzzle and send the picture in your team’s breakout room chat letting us know that you have completed it.
 Potential points: 10 points for fully completing the crossword puzzle. 
 
-Neuralink Trivia Quiz 
+## Neuralink Trivia Quiz 
 
 Instructions: Follow this link to access the trivia quiz https://forms.gle/nEF1iZacaBPqLHUe8 
 How to verify/submit: How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
 Potential points: Each question is worth 1 point. There are a total of 10 questions. 
 
+## Leet Code Challenge 1
+
+Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
+Potential Points: 10 for completion 5 bonus for Golang
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+## Leet Code Challenge 2
+
+Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
+Potential Points: 10 for completion 5 bonus for Golang
+https://leetcode.com/problems/shuffle-the-array/
 
