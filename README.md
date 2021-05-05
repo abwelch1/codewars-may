@@ -24,6 +24,17 @@ Below is a coding challenge on Leet Code. For a correct submission please screen
 Potential Points: 10 for completion 5 bonus for Golang
 https://leetcode.com/problems/shuffle-the-array/
 
+## Go Environment Flag
+Worth 5 points 
+
+Your VM contains a hidden environment_flag directory. Within that directory is a single Go executable. The executable accepts an argument for the name of an environment variable on your VM, and then attempts to locate that environment variable. If the supplied environment variable name is successfully retrieved, the flag is outputted.
+
+Your task is to run the executable and pass a valid environment variable name. You can use an existing environment variable or create your own. 
+
+HINTS: 
+* You don't need to travel far to locate the hidden directory
+
+
 ## Kubernetes/API Flag
 Each phase is worth 10 points.
 
@@ -93,6 +104,7 @@ Your objective for phase one is to access that banking service website.
 HINTS:
 * your VMs come with nmap pre-installed
 * the command ```ip a``` will output network interface information for your VM
+	* multiple interface entries exist, be sure to scan the correct interface (or try them all :D)
 * use the following subnet mask in cidr notation for your scan: 255.255.255.0
 * disregard output for other team VMs
 * **the external IP of the banking service VM is appended to the VM's name. Replace the dashes with periods to have a valid ip address**
