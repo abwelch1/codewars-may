@@ -19,8 +19,6 @@ HINTS:
 
 ### Phase 2:
 
-### Nmap/frontend Flag
-
 ## Crossword Puzzle 
 
 Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ 
