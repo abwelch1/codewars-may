@@ -139,3 +139,6 @@ This challenge is worth 10 points
 ### Dolls
 Remember those old dolls your grandma used to have, or at leasts someones did, that could stack into each other? 
 Anyways there is a flag located somewhere in this directory, and can be retrieved using standard tools in windows. Good Luck!
+
+### Pic
+Those old cat memes back in the early 2010's got so meta. I cringe looking back at what I posted to the internet. In this directory I have include a single flag somewhere. Good luck!
