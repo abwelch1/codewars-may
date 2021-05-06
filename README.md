@@ -125,4 +125,10 @@ HINTS:
 * the console tab in your browser will be useful
 
 HOW TO SUBMIT FOR POINTS:
-* Paste the flag output into **your team's breakout room chat**
+
+## Crypto Challenge 
+This challenge is worth 10 points
+
+### Dolls
+Remember those old dolls your grandma used to have, or at leasts someones did, that could stack into each other? 
+Anyways there is a flag located somewhere in this directory, and can be retrieved using standard tools in windows. Good Luck!
