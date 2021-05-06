@@ -4,7 +4,7 @@ EX: ssh -i team-1 admin@35.222.181.98
 
 ## Word Search Puzzle 
 
-Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ 
+Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ and select "begin".
 How to verify/submit: Screenshot your completed word search puzzle and send the picture in your team’s breakout room chat letting us know that you have completed it.
 Potential points: 10 points for fully completing the word search puzzle. 
 
