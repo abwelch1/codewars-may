@@ -1,5 +1,5 @@
 # CodeWar Challenges
-**VM Login Command**: ```ssh -i <private-key-file> admin@<vm-ip>```
+**VM Login Command**: ```ssh -i <private-key-file> admin@<vm-ip>```  
 EX: ssh -i team-1 admin@35.222.181.98
 
 ## Word Search Puzzle 
