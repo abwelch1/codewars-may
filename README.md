@@ -5,16 +5,19 @@ EX: ssh -i team-1 admin@35.222.181.98
 ## You can earn 5 bonus points if your team is the first to solve a challange!
 
 ## Word Search Puzzle 
+Potential points: 10 points for fully completing the word search puzzle.
 
 Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ and select "begin".
+
 How to verify/submit: Screenshot your completed word search puzzle and send the picture in your team’s breakout room chat letting us know that you have completed it.
-Potential points: 10 points for fully completing the word search puzzle. 
+ 
 
 ## Neuralink Trivia Quiz 
+Potential points: Each question is worth 1 point. There are a total of 10 questions.
 
 Instructions: Follow this link to access the trivia quiz https://forms.gle/nEF1iZacaBPqLHUe8 
-How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
-Potential points: Each question is worth 1 point. There are a total of 10 questions. 
+
+How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional.  
 
 ## Leet Code Challenge 1
 Potential Points: 10 for completion 5 bonus for Golang
