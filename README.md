@@ -2,6 +2,8 @@
 **VM Login Command**: ```ssh -i <private-key-file> admin@<vm-ip>```  
 EX: ssh -i team-1 admin@35.222.181.98
 
+## You can earn 5 bonus points if your team is the first to solve a challange!
+
 ## Word Search Puzzle 
 
 Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ and select "begin".
