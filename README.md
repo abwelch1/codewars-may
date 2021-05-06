@@ -9,7 +9,7 @@ Potential points: 10 points for fully completing the word search puzzle.
 ## Neuralink Trivia Quiz 
 
 Instructions: Follow this link to access the trivia quiz https://forms.gle/nEF1iZacaBPqLHUe8 
-How to verify/submit: How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
+How to verify/submit: Notify us in your team’s breakout room chat that you have completed the trivia quiz. Screenshot of the completed quiz is optional. 
 Potential points: Each question is worth 1 point. There are a total of 10 questions. 
 
 ## Leet Code Challenge 1
