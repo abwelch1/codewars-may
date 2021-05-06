@@ -2,8 +2,6 @@
 **VM Login Command**: ```ssh -i <private-key-file> admin@<vm-ip>```  
 EX: ssh -i team-1 admin@35.222.181.98
 
-## Bonus points opportunity: you can earn 5 bonus points for being the first team to complete a challenge! 
-
 ## Word Search Puzzle 
 
 Instructions: Follow this link to access the wordsearch challenge https://thewordsearch.com/puzzle/2267121/code-wars-70-word-search/ and select "begin".
@@ -17,15 +15,17 @@ How to verify/submit: Notify us in your team’s breakout room chat that you hav
 Potential points: Each question is worth 1 point. There are a total of 10 questions. 
 
 ## Leet Code Challenge 1
+Potential Points: 10 for completion 5 bonus for Golang
 
 Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
-Potential Points: 10 for completion 5 bonus for Golang
+
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 ## Leet Code Challenge 2
+Potential Points: 10 for completion 5 bonus for Golang
 
 Below is a coding challenge on Leet Code. For a correct submission please screenshot of the solution page in your team chat with the challenge number. 
-Potential Points: 10 for completion 5 bonus for Golang
+
 https://leetcode.com/problems/shuffle-the-array/
 
 ## Go Environment Flag
