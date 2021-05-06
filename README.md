@@ -134,7 +134,7 @@ HINTS:
 HOW TO SUBMIT FOR POINTS:
 
 ## Crypto Challenge 
-This challenge is worth 10 points
+This challenge is worth 10 points a section for 20 points total.
 
 ### Dolls
 Remember those old dolls your grandma used to have, or at leasts someones did, that could stack into each other? 
