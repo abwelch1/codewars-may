@@ -43,6 +43,9 @@ Your task is to run the executable and pass a valid environment variable name. Y
 HINTS: 
 * You don't need to travel far to locate the hidden directory
 
+HOW TO SUBMIT FOR POINTS:
+* Paste the flag output into **your team's breakout room chat**
+
 
 ## Kubernetes/API Flag
 Each phase is worth 10 points.
